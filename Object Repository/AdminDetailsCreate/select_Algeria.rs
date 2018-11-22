@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Algeria</name>
+   <tag></tag>
+   <elementGuidId>0ad311b4-fd3f-4b06-b487-65dfc5e0fff8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;select2-drop&quot;]//ul//li//div[contains(text(),&quot;${Country}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

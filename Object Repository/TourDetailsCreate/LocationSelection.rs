@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LocationSelection</name>
+   <tag></tag>
+   <elementGuidId>302d40a7-a789-4ff3-ac19-dfc617b1b9fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class=&quot;select2-results&quot;]//div[contains(text(),'France')]</value>
+   </webElementProperties>
+</WebElementEntity>
